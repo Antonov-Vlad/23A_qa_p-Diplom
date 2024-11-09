@@ -1,3 +1,5 @@
+# Антонов Владислав, 23А-я когорта — Инженер по тестированию плюс. Финальный проект.
+
 import configuration
 import requests
 import data
